@@ -14,7 +14,9 @@ Using the Arduino code assigned we were able to use it for the hardware, for the
 - Adafruit_GFX Library
 - Adafruit_SSD1306
 - Arduino Standard Functions
-
-# Performance
+# Set up & Configuration
+- Install Arduino IDE
+- Connect the Board to the computer using the USB port
 # Schematic
+
 
