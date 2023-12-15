@@ -1,7 +1,7 @@
 # Temperature-Sensor
 # Hardware requirements
 # Software requirements
-# code
+# codes
 # Performance
 # Schematic
 
