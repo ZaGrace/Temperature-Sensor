@@ -18,5 +18,7 @@ Using the Arduino code assigned we were able to use it for the hardware, for the
 - Install Arduino IDE
 - Connect the Board to the computer using the USB port
 # Schematic
+https://i0.wp.com/electronicsinnovation.com/wp-content/uploads/2020/02/SHT31_ESP32-scaled.jpg?resize=803%2C540&ssl=1
+
 
 
