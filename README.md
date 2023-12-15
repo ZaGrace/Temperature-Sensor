@@ -1,2 +1,7 @@
 # Temperature-Sensor
-# hello
+# Hardware requirements
+# Software requirements
+# code
+# Performance
+# Schematic
+
